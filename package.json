@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Use class-based controllers to handle websocket events.",
   "license": "MIT",
-  "main": "build/index.js",
+  "main": "index.js",
   "author": {
     "name": "TypeStack contributors"
   },
