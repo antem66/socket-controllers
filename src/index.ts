@@ -16,7 +16,7 @@ export * from './decorators/SocketIO';
 export * from './decorators/SocketQueryParam';
 export * from './decorators/SocketRequest';
 export * from './decorators/SocketRooms';
-
+export * from './decorators/UseInterceptor';
 export * from './types/MiddlewareInterface';
 export * from './types/InterceptorInterface';
 export * from './types/TransformOptions';
